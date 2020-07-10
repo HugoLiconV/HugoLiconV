@@ -7,9 +7,9 @@ Currently, working full time at Prixz on a mobile app using React Native and a w
 
 ## 📫 How to reach me:
 <p align='center'>
-<a href="https://dev.to/hugoliconv"><img height="30" src="./img/devto-green.svg"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/HugoLiconV"><img height="30" src="./img/twitter-green.svg"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/hugoliconv/"><img height="30" src="./img/linkedin-green.svg"></a>
+<a href="https://dev.to/hugoliconv"><img height="30" src="https://raw.githubusercontent.com/HugoLiconV/HugoLiconV/master/img/devto-green.svg"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/HugoLiconV"><img height="30" src="https://raw.githubusercontent.com/HugoLiconV/HugoLiconV/master/img/twitter-green.svg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/hugoliconv/"><img height="30" src="https://raw.githubusercontent.com/HugoLiconV/HugoLiconV/master/img/linkedin-green.svg"></a>
 </p>
 
 ## Projects
