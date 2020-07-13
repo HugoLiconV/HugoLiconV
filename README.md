@@ -41,3 +41,9 @@ Recently, I spent some time improving my development tools like vim, tmux, and s
 <p align='center'>
   <a href="https://github.com/HugoLiconV/dotfiles">Repository</a>&nbsp;&nbsp;
 </p>
+
+****
+
+<p align='center'>
+   <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=fessf">
+<p/>
