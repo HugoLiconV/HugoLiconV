@@ -13,8 +13,8 @@ Currently, working full time at Prixz on a mobile app using React Native and a w
 </p>
 
 ## Projects
-### Spotify Clon
-A Spotify clon using React, Redux, Jest, and Enzyme
+### Spotify Clone
+A Spotify clone using React, Redux, Jest, and Enzyme
 <p align='center'>
   <img width="500" src="https://github.com/HugoLiconV/Spotify-react/raw/master/screenshots/Desktop.png?raw=true" />
 </p>
