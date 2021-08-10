@@ -1,9 +1,9 @@
 ## Hi there 👋
-Full-stack developer with experience building solutions on React, Node, and React Native.
+Front-end developer with experience building solutions on React, Node, and React Native.
 
 Passionate about helping people through software, sharing my knowledge, and learning more every day.
 
-Currently, working full time at Prixz on a mobile app using React Native and a web app using React + GraphQL for a medication delivery system.
+I'm currently a Front-end developer at [Casai](https://casai.com/en), an a16z-backed tech startup changing the world of hospitality, starting with Mexico and Brazil.
 
 ## 📫 How to reach me:
 <p align='center'>
