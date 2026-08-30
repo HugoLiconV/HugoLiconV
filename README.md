@@ -1,46 +1,23 @@
-## Hi there 👋
-Software engineer with 5+ years of experience driven by a passion for creating seamless user experiences, I specialize in building frontend solutions for both mobile and web platforms.
+# Hi, I'm Hugo 👋
 
-My previous role was as a Software Engineer at [Sammy](https://www.usesammy.com/en) helping them build a financial technology platform that provides a bank account in the U.S. without the need to be a resident or U.S. citizen designed for international digital professionals.
+I'm a software engineer based in Chihuahua, Mexico, with 7+ years of experience building web and mobile products and improving the systems engineers use to maintain them.
 
-## 📫 How to reach me:
-<p align='center'>
-<a href="https://dev.to/hugoliconv"><img height="30" src="https://raw.githubusercontent.com/HugoLiconV/HugoLiconV/master/img/devto-green.svg"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/HugoLiconV"><img height="30" src="https://raw.githubusercontent.com/HugoLiconV/HugoLiconV/master/img/twitter-green.svg"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/hugoliconv/"><img height="30" src="https://raw.githubusercontent.com/HugoLiconV/HugoLiconV/master/img/linkedin-green.svg"></a>
-</p>
+Most recently, I worked at Pinterest on web quality, large-scale React and TypeScript modernization, developer experience, and AI-assisted engineering tools. My work combined hands-on code improvements with automation, safeguards, documentation, and self-service workflows that helped other teams contribute safely.
 
-## Projects
-### Spotify Clone
-A Spotify clone using React, Redux, Jest, and Enzyme
-<p align='center'>
-  <img width="500" src="https://github.com/HugoLiconV/Spotify-react/raw/master/screenshots/Desktop.png?raw=true" />
-</p>
-<p align='center'>
-  <a href="https://react-spotify-player.firebaseapp.com/">Live version</a>&nbsp;&nbsp;
-  <a href="https://github.com/HugoLiconV/Spotify-react" >Source Code</a>
-</p>
+Earlier in my career, I built fintech products with React Native and Expo, helped develop a React and Storybook design system, improved frontend performance and observability, and contributed to platform modernization across React, GraphQL, React Native, and AWS.
 
-### Pricer
-A web application that tracks products from some stores and notifies you when a price goes down.
-<p align='center'>
-  <img width="500" src="https://github.com/HugoLiconV/Shop-scraper-v2/raw/master/screenshots/home%20-%20desktop.png?raw=true" />
-</p>
-<p align='center'>
-  <a href="https://github.com/HugoLiconV/Shop-scraper-website" >Source Code</a>
-</p>
+A few highlights from my recent work:
 
-## Dotfiles
-Recently, I spent some time improving my development tools like vim, tmux, and shell ♥
-<p align='center'>
-  <img width="500" src="https://github.com/HugoLiconV/dotfiles/raw/master/images/tmux.png" />
-</p>
-<p align='center'>
-  <a href="https://github.com/HugoLiconV/dotfiles">Repository</a>&nbsp;&nbsp;
-</p>
+- Led a TypeScript quality initiative that reduced suppressed errors by approximately 65%
+- Helped reduce Pinterest's tracked React class-component inventory by approximately 38%
+- Initiated a cross-team effort that removed approximately 58,700 lines of legacy code
+- Built AI-assisted workflows for safer code migrations and application validation
+- Onboarded and mentored five engineers on a newly formed engineering team
 
-****
+## What I work with
 
-<p align='center'>
-   <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=hugoliconv.hugoliconv">
-<p/>
+TypeScript · JavaScript · React · React Native · Next.js · Node.js · GraphQL
+
+## Connect
+
+[Portfolio](https://www.hugolicon.dev/) · [LinkedIn](https://www.linkedin.com/in/hugoliconv)
